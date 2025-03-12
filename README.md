@@ -13,8 +13,8 @@ Import d'un fichier pdf concernant les différentes transactions effectuées
 Installation : 
 
 -Cloner le projet : 
-git clone https://github.com/Mathilde4/Learning-FastAPI.git
-cd Learning-FastAPI
+git clone https://github.com/Mathilde4/FastAPI-SalleDeSport.git
+cd FastAPI-SalleDeSport
 
 -Créer un environnement virtuel(Optionnel mais recommandé) :
 python -m venv env
